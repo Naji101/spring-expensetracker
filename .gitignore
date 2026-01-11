@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignore local dev config
+application-dev.properties
+application-prod.properties
+testnaji.txt
+
